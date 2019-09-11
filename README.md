@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/sunilkumartallapalli/skyProject/_apis/build/status/sunilkumartallapalli.pipelines-java?branchName=master)](https://dev.azure.com/sunilkumartallapalli/skyProject/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
